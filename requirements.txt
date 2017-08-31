@@ -1,7 +1,0 @@
-krakenex
-pushbullet.py
-simplejson
-pandas
-psycopg2
-SQLAlchemy
-git+git://github.com/dboudz/speculator.git
