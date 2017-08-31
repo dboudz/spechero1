@@ -4,4 +4,4 @@ simplejson
 pandas
 psycopg2
 SQLAlchemy
-git+git://github.com:dboudz/spechero1.git
+git+git://github.com/dboudz/spechero1.git
