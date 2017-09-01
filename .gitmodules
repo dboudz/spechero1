@@ -1,0 +1,3 @@
+[submodule "speculator"]
+	path = speculator
+	url = https://github.com/dboudz/speculator.git
