@@ -1,3 +1,6 @@
 [submodule "speculator"]
 	path = speculator
 	url = https://github.com/dboudz/speculator.git
+[submodule "lib"]
+	path = lib
+	url = https://github.com/dboudz/speculator
